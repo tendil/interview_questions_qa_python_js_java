@@ -251,9 +251,9 @@
 | 58  | [Як ви отримуєте повідомлення подій, відправлених з сервера (server-sent events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#58-як-ви-отримуєте-повідомлення-подій-відправлених-з-сервера-server-sent-events)                                       |
 | 59  | [Як перевірити підтримку браузером для подій, відправлених з сервера (server-sent events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#59-як-перевірити-підтримку-браузером-для-подій-відправлених-з-сервера-server-sent-events)                     |
 | 60  | [Які події доступні для подій, відправлених з сервера (server-sent events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#60-які-події-доступні-для-подій-відправлених-з-сервера-server-sent-events)                                                   |
-| 60  | [Які події доступні для подій, відправлених з сервера (server-sent events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#60-які-події-доступні-для-подій-відправлених-з-сервера-server-sent-events)                                                   |
-| 61  | [Які основні правила обіцянок (promise)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#61-які-основні-правила-обіцянок-promise)                                                                                                                        |                                                                                                                                                                                                             |
-| 62  | [Що таке зворотній виклик у зворотньому виклику (callback in callback)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#62-що-таке-зворотній-виклик-у-зворотньому-виклику-callback-in-callback)                                                          |
+| 61  | [Які події доступні для подій, відправлених з сервера (server-sent events)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#60-які-події-доступні-для-подій-відправлених-з-сервера-server-sent-events)                                                   |
+| 62  | [Які основні правила обіцянок (promise)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#61-які-основні-правила-обіцянок-promise)                                                                                                                        |                                                                                                                                                                                                             |
+| 63  | [Що таке зворотній виклик у зворотньому виклику (callback in callback)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#62-що-таке-зворотній-виклик-у-зворотньому-виклику-callback-in-callback)                                                          |
 | 63  | [Що таке ланцюг обіцянок (promise chaining)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#63-що-таке-ланцюг-обіцянок-promise-chaining)                                                                                                                |
 | 64  | [Що таке promise.all](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#64-що-таке-promiseall)                                                                                                                                                             |
 | 65  | [Яка мета методу race у обіцянок (promise)](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#65-яка-мета-методу-race-у-обіцянок-promise)                                                                                                                  |
@@ -427,7 +427,7 @@
 - [90. Performance Testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#90-performance-testing)
 - [91. Traceability Matrix](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#91-traceability-matrix)
 - [92. End-to-End тест](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#92-end-to-end-тест)
-- [93. Тестування безпеки](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#93-nестування-безпеки)
+- [93. Тестування безпеки](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#93-тестування-безпеки)
 - [94. Випробування на основі ризиків](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#94-випробування-на-основі-ризиків)
 - [95. Динамічне тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#95-динамічне-тестування)
 - [96. Основні фази STLC? Дайте визначення Entry та Exit Criteria](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#96-основні-фази-stlc-дайте-визначення-entry-та-exit-criteria)
@@ -435,7 +435,7 @@
 - [98. Різниця між пріоритетом і серйозністю](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#98-різниця-між-пріоритетом-і-серйозністю)
 - [99. Наведіть приклади серйозного, але не пріоритетного бага](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#99-наведіть-приклади-серйозного-але-не-пріоритетного-бага)
 - [100. Навіщо потрібна тестова документація? Які її види](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#100-навіщо-потрібна-тестова-документація-які-її-види)
-- [101. Тест-план? Які елементи має](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#100-тест-план-які-елементи-має)
+- [101. Тест-план? Які елементи має](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#101-тест-план-які-елементи-має)
 
 
 ## 11. Бази данних
@@ -2553,12 +2553,685 @@ w = undefined;
 ### 50. Які обмеження веб-працівників на DOM
 WebWorker не має доступу до нижченаведених об'єктів javascript, оскільки вони визначені у зовнішніх файлах
 
-[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-
-
 1. Об'єкт вікна
 2. Об'єкт документа
 3. Батьківський об'єкт
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 51. Що таке обіцянка (promise)
+
+Обіцянка - це об'єкт, який може створити єдине значення колись у майбутньому, або з вирішеним значенням, або з причиною, чому воно не вирішене (наприклад, мережева помилка). Обіцянка перебуватиме в одному з 3 можливих станів: виконана, відхилена або в очікуванні.
+
+Синтаксис створення обіцянки виглядає наступним чином,
+
+```javascript
+const promise = new Promise(function (resolve, reject) {
+  // опис обіцянки
+});
+```
+
+Використання обіцянки буде таким, як показано нижче,
+
+```javascript
+const promise = new Promise()
+  (resolve) => {
+    setTimeout(() => {
+      resolve("Я - обіцянка!");
+    }, 5000);
+  },
+  (reject) => {}
+);
+
+promise.then((value) => console.log(value));
+```
+
+Потік дій обіцянки буде таким, як показано нижче,
+
+![Скріншот](images/promises.png)
+
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 52. Чому вам потрібна обіцянка (promise)
+
+Обіцянки використовуються для обробки асинхронних операцій. Вони забезпечують альтернативний підхід до зворотних викликів, зменшуючи пекло зворотних викликів і дозволяючи писати чистіший код.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 53. Які три стани у обіцянки (promise)
+
+Обіцянки мають три стани:
+
+1. **Очікує:** Це початковий стан обіцянки перед початком операції
+2. **Виконано:** Цей стан означає, що вказана операція була завершена.
+3. **Відхилено:** Цей стан вказує на те, що операція не була виконана. У цьому випадку буде викинуто значення помилки.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 54. Що таке зворотний виклик (callback function)
+
+Функція зворотного виклику - це функція, яка передається в іншу функцію як аргумент. Ця функція викликається всередині зовнішньої функції для виконання певної дії.
+Розглянемо простий приклад використання функції зворотного виклику
+
+```javascript
+function callbackFunction(name) {
+  console.log("Hello " + name);
+}
+
+function outerFunction(callback) {
+  let name = prompt("Будь ласка, введіть ваше ім'я.");
+  callback(name);
+}
+
+outerFunction(callbackFunction);
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 55. Чому нам потрібні зворотні виклики (callbacks)
+
+Функції зворотного виклику потрібні тому, що javascript - це мова, керована подіями. Це означає, що замість того, щоб чекати на відповідь, javascript буде продовжувати виконання, слухаючи інші події.
+Розглянемо приклад з першою функцією, яка викликає виклик API (імітований за допомогою setTimeout), і наступною функцією, яка записує повідомлення в журнал.
+
+```javascript
+function firstFunction() {
+  // Імітуємо затримку коду
+  setTimeout(function () { // Імітуємо затримку коду.
+    console.log("Викликано першу функцію");
+  }, 1000);
+}
+function secondFunction() {
+  console.log("Викликано другу функцію");
+}
+firstFunction();
+secondFunction();
+
+Вивести;
+// Викликано другу функцію
+// Викликана перша функція
+```
+
+Як видно з виводу, javascript не дочекався відповіді першої функції і виконав блок коду, що залишився. Таким чином, функція зворотного виклику використовується для того, щоб переконатися, що певний код не виконується, доки інший код не завершить виконання.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 56. Що таке "інферно зворотніх викликів" (callback hell)
+
+Пекло зворотного виклику - це антипатерн з декількома вкладеними зворотними викликами, який ускладнює читання та налагодження коду при роботі з асинхронною логікою. Пекло зворотних викликів виглядає наступним чином,
+
+```javascript
+async1(function(){
+    async2(function(){
+        async3(function(){
+            async4(function(){
+                ....
+            });
+        });
+    });
+});
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 57. Що таке події, відправлені з сервера (server-sent events)
+
+Події, що надсилаються сервером (SSE) - це технологія server push, яка дозволяє браузеру отримувати автоматичні оновлення від сервера через HTTP-з'єднання, не вдаючись до опитування. Це односторонній канал зв'язку - події передаються лише від сервера до клієнта. Ця технологія використовується в оновленнях Facebook/Twitter, оновленнях біржових котирувань, новинних стрічках тощо.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 58. Як ви отримуєте повідомлення подій, відправлених з сервера (server-sent events)
+
+Об’єкт EventSource використовується для отримання сповіщень про події, надісланих сервером. Наприклад, ви можете отримувати повідомлення від сервера, як показано нижче:
+```javascript
+if (typeof EventSource !== "undefined") {
+  var source = new EventSource("sse_generator.js");
+  source.onmessage = function (event) {
+    document.getElementById("output").innerHTML += event.data + "<br>";
+  };
+}
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 59. Як перевірити підтримку браузером для подій, відправлених з сервера (server-sent events)
+
+Ви можете перевірити підтримку браузером подій, що надсилаються сервером, перед їх використанням, як показано нижче,
+
+```javascript
+if (typeof EventSource !== "undefined") {
+  // Підтримуються події, відправлені сервером. Давайте напишемо код!
+} else {
+  // Не підтримуються події, що надсилаються сервером
+}
+```
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 60. Які події доступні для подій, відправлених з сервера (server-sent events)
+
+Нижче наведено список подій, доступних для подій, що надсилаються сервером
+
+| Подія | Опис 
+|---- | ---- 
+| onopen | Використовується, коли відкривається з'єднання з сервером
+| onmessage | Ця подія використовується при отриманні повідомлення
+| onerror | Відбувається при виникненні помилки
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 61. Які події доступні для подій, відправлених з сервера (server-sent events)
+
+Обіцянка повинна відповідати певному набору правил:
+
+1. Обіцянка - це об'єкт, який надає стандартний метод `.then()`.
+2. Обіцянка, що очікує на виконання, може перейти в стан виконаної або відхиленої
+3. Виконана або відхилена обіцянка є завершеною і не повинна переходити в будь-який інший стан.
+4. Після того, як обіцянка виконана, її значення не повинно змінюватися.
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 62. Що таке зворотній виклик у зворотньому виклику (callback in callback)
+
+Ви можете вкласти один колбек в інший колбек, щоб виконати дії послідовно один за одним. Це називається зворотний виклик у зворотному виклику.
+
+```javascript
+loadScript("/script1.js", function (script) {
+  console.log("завантажено перший скрипт");
+
+  loadScript("/script2.js", function (script) {
+    console.log("завантажено другий скрипт");
+
+    loadScript("/script3.js", функція (скрипт) {
+      console.log("завантажено третій скрипт");
+      // після завантаження всіх скриптів
+    });
+  });
+});
+```
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 63. Що таке ланцюг обіцянок (promise chaining)
+
+Процес виконання послідовності асинхронних завдань одне за одним з використанням обіцянок називається ланцюжком обіцянок (Promise chaining). Розглянемо приклад ланцюжка обіцянок для обчислення кінцевого результату,
+
+```javascript
+new Promise(function (resolve, reject) {
+  setTimeout(() => resolve(1), 1000);
+})
+  .then(function (result) {
+    console.log(result); // 1
+    повернути result * 2;
+  })
+  .then(function (result) {
+    console.log(result); // 2
+    повернути result * 3;
+  })
+  .then(function (result) {
+    console.log(result); // 6
+    повернути result * 4;
+  });
+```
+
+У вищенаведених обробниках результат передається в ланцюжок обробників .then() з наведеним нижче алгоритмом роботи,
+
+1. Початкова обіцянка виконується за 1 секунду,
+2. Після цього викликається обробник `.then`, який записує результат(1) і повертає обіцянку зі значенням result \* 2.
+3. Після цього значення передається наступному обробнику `.then`, який записує result(2) і повертає обіцянку зі значенням result \* 3.
+4. Нарешті, значення передається останньому обробнику `.then`, який записує результат(6) і повертає обіцянку з результатом \* 4.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 64. Що таке promise.all
+
+Promise.all - це обіцянка, яка отримує на вхід масив обіцянок (ітерабельний масив) і повертає результат, коли виконано всі обіцянки або відхилено будь-яку з них. Наприклад, синтаксис методу promise.all наведено нижче,
+
+```javascript
+Promise.all([Promise1, Promise2, Promise3]) .then(result) => { console.log(result) }) .catch(error => console.log(`Помилка в обіцянках ${error}`))
+```
+
+**Примітка:** Пам'ятайте, що порядок обіцянок (виведення результату) зберігається відповідно до порядку введення.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 65. Яка мета методу race у обіцянок (promise)
+
+Метод promise.race() повертає екземпляр обіцянки, який першим буде вирішено або відхилено. Розглянемо приклад методу race(), в якому першим обробляється promise2
+
+```javascript
+var promise1 = new Promise(function (resolve, reject) {
+  setTimeout(resolve, 500, "one");
+});
+var promise2 = new Promise(function (resolve, reject) {
+  setTimeout(resolve, 100, "two");
+});
+
+Promise.race([promise1, promise2]).then(function (value) {
+  console.log(value); // "two" // Обидві обіцянки вирішаться, але promise2 швидше
+});
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 66. Що таке строгий режим у JavaScript (strict mode)
+
+Суворий режим - це нова функція в ECMAScript 5, яка дозволяє помістити програму або функцію в "суворий" робочий контекст. Таким чином, він запобігає виконанню певних дій і генерує більше винятків. Буквальний вираз `"use strict";` вказує браузеру використовувати код javascript в строгому режимі.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 67. Чому вам потрібен строгий режим (strict mode)
+
+Суворий режим корисний для написання "безпечного" JavaScript, перетворюючи "поганий синтаксис" на реальні помилки. Наприклад, він усуває випадкове створення глобальної змінної, видаючи помилку, а також видає помилку при присвоюванні властивості, яку не можна записати, властивості, доступної лише для отримання, неіснуючої властивості, неіснуючої змінної або неіснуючого об'єкта.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 68. Як ви оголошуєте строгий режим (strict mode)
+
+Строгий режим оголошується додаванням "use strict"; на початку скрипту або функції.
+Якщо його оголошено на початку скрипта, він має глобальну область видимості.
+
+```javascript
+"use strict";
+x = 3.14; // Це призведе до помилки, оскільки x не оголошено
+```
+
+а якщо оголосити всередині функції, то вона має локальну область видимості
+
+```javascript
+x = 3.14; // Це не викличе помилки.
+myFunction();
+
+function myFunction() {
+  "use strict";
+  y = 3.14; // Це викличе помилку
+}
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 69. Яка мета подвійного оклику (!!) (double exclamation)
+
+Вигук double або заперечення(!!) гарантує, що результуючий тип буде логічним. Якщо він був хибним (наприклад, 0, null, undefined і т.д.), він буде хибним, в іншому випадку - істинним.
+Наприклад, ви можете перевірити версію IE, використовуючи цей вираз, як показано нижче,
+
+```javascript
+let isIE8 = false;
+isIE8 = !! navigator.userAgent.match(/MSIE 8.0/);
+console.log(isIE8); // повертає true або false
+```
+
+Якщо ви не використовуєте цей вираз, то він повертає початкове значення.
+
+```javascript
+console.log(navigator.userAgent.match(/MSIE 8.0/)); // повертає масив або null
+```
+
+**Примітка:** Вираз !! не є оператором, але це просто двічі оператор !
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 70. Яка мета оператора delete
+
+Ключове слово delete використовується для видалення властивості та її значення.
+
+```javascript
+var user = { name: "John", age: 20 };
+delete user.age;
+
+console.log(user); // {name: "John"}
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 71. Який оператор typeof
+
+Ви можете використовувати оператор typeof для визначення типу змінної JavaScript. Він повертає тип змінної або виразу.
+
+```javascript
+typeof "John Abraham"; // Повертає "рядок"
+typeof (1 + 2); // Повертає "число"
+typeof [1, 2, 3] // Повертає "об'єкт", оскільки всі масиви також є об'єктами
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 72. Що таке властивість undefined
+
+Властивість undefined вказує на те, що змінній не присвоєно значення, або вона оголошена, але не ініціалізована взагалі. Тип невизначеного значення також є невизначеним.
+
+```javascript
+var user; // Значення не визначено, тип не визначено
+console.log(typeof user); //невизначено
+```
+
+Будь-яку змінну можна очистити, встановивши їй значення undefined.
+
+```javascript
+user = undefined;
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 73. Що таке значення null
+
+Значення null означає навмисну відсутність будь-якого значення об'єкта. Це одне з примітивних значень JavaScript. Тип нульового значення - об'єкт.
+Ви можете очистити змінну, встановивши значення null.
+
+```javascript
+var user = null;
+console.log(typeof user); //об'єкт
+```
+
+    
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 74. Яка різниця між значенням null та undefined
+
+Нижче наведено основні відмінності між null та undefined,
+
+| Null | Undefined                                                                          |
+| ----------------------------------------------------------------------------------------------- |------------------------------------------------------------------------------------|
+| Це значення присвоєння, яке вказує на те, що змінна вказує на об'єкт, на який немає об'єкта. | Це не значення присвоєння, коли змінна оголошена, але їй ще не присвоєно значення. |
+| Тип null - об'єкт | Тип undefined - undefined                                                          |
+| Значення null - це примітивне значення, що представляє нульове, порожнє або неіснуюче посилання. Значення undefined - це примітивне значення, що використовується, коли змінній ще не присвоєно значення. | Невизначене значення - це примітивне значення, яке використовується, коли змінній не присвоєно значення. |
+| Вказує на відсутність значення для змінної | Вказує на відсутність самої змінної                                                |
+| Перетворено в нуль (0) під час виконання примітивних операцій | Перетворено в NaN під час виконання примітивних операцій                           |
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 75. Що таке функція eval
+
+Функція eval() обчислює JavaScript-код, представлений у вигляді рядка. Рядок може бути виразом JavaScript, змінною, оператором або послідовністю операторів.
+
+```javascript
+console.log(eval("1 + 2")); // 3
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 76. Яка різниця між об'єктом window та document
+
+Нижче наведено основні відмінності між вікном і документом,
+
+| Вікно | Документ |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Це елемент кореневого рівня на будь-якій веб-сторінці | Він є прямим дочірнім елементом віконного об'єкта. Це також відоме як модель об'єктів документа (DOM) |
+| За замовчуванням об'єкт window доступний неявно на сторінці | Ви можете отримати до нього доступ за допомогою window.document або document.|
+| Він має такі методи, як alert(), confirm(), і такі властивості, як document, location | Він надає такі методи, як getElementById, getElementsByTagName, createElement тощо |
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 77. Як ви отримуєте доступ до історії у JavaScript
+
+Об'єкт window.history містить історію браузера. Ви можете завантажити попередні та наступні URL-адреси в історії за допомогою методів back() та next().
+
+```javascript
+function goBack() {
+  window.history.back();
+}
+function goForward() {
+  window.history.forward();
+}
+```
+
+**Примітка:** Ви також можете отримати доступ до історії без префікса window.
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 78. Як ви визначаєте, чи включена клавіша Caps Lock, чи ні
+
+Подія `mouseEvent getModifierState()` використовується для повернення булевого значення, яке вказує, чи активовано вказану клавішу-модифікатор, чи ні. Такі модифікатори, як CapsLock, ScrollLock і NumLock активуються при натисканні на них, і деактивуються при повторному натисканні.
+
+Розглянемо на прикладі вхідного елемента, щоб визначити поведінку ввімкненого/вимкненого CapsLock,
+
+```html
+<input type="password" onmousedown="enterInput(event)" />
+
+<p id="feedback"></p> <p
+
+<скрипт
+  function enterInput(e) {
+    var flag = e.getModifierState("CapsLock");
+    if (flag) {
+      document.getElementById("feedback").innerHTML = "CapsLock активовано";
+    } else {
+      document.getElementById("feedback").innerHTML =
+        "CapsLock не активовано";
+    }
+  }
+</script>
+```
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 79. Що таке функція isNaN
+
+Функція isNaN() використовується для визначення того, чи є значення недопустимим числом (Not-a-Number) чи ні. Тобто, ця функція повертає true, якщо значення дорівнює NaN. В іншому випадку повертається false.
+
+```javascript
+isNaN("Hello"); //істина
+isNaN("100"); //false
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 80. Яка різниця між змінними, які не оголошені, та змінними, які мають значення undefined
+
+Нижче наведено основні відмінності між неоголошеними (не визначеними) та невизначеними змінними,
+
+undeclared | undefined |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Ці змінні не існують у програмі і не оголошені | Ці змінні оголошені у програмі, але їм не присвоєно жодного значення
+| При спробі прочитати значення неоголошеної змінної виникає помилка виконання програми | При спробі прочитати значення невизначеної змінної повертається невизначене значення. |
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 81. Що таке глобальні змінні
+
+Глобальні змінні - це змінні, які доступні по всьому коду без обмеження області видимості. Для оголошення локальної змінної використовується ключове слово var, але якщо його опустити, то вона стане глобальною змінною
+
+```javascript
+msg = "Hello"; // var пропущено, вона стає глобальною змінною
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 82. Які проблеми із глобальними змінними
+
+Проблема глобальних змінних полягає у конфлікті імен змінних локальної та глобальної області видимості. Також складно налагоджувати і тестувати код, який використовує глобальні змінні.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 83. Що таке властивість NaN
+
+Властивість NaN - це глобальна властивість, яка представляє значення "Не-число", тобто вказує на те, що значення не є дійсним числом. Дуже рідко використовують NaN у програмі, але його можна використовувати як значення, що повертається, у кількох випадках
+
+```javascript
+Math.sqrt(-1);
+parseInt("Hello");
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 84. Яка мета функції isFinite
+
+Функція isFinite() використовується для визначення того, чи є число скінченним, законним числом. Вона повертає false, якщо значення +нескінченність, -нескінченність або NaN (Not-a-Number), інакше повертає true.
+
+```javascript
+isFinite(Infinity); // false
+isFinite(NaN); // false
+isFinite(-Infinity); // false
+
+isFinite(100); // true
+```
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 85. Що таке потік подій (event flow)
+
+Потік подій - це порядок надходження подій на веб-сторінку. Коли ви клацаєте елемент, вкладений в інші елементи, перш ніж ваш клік досягне місця призначення або цільового елемента, він повинен викликати подію кліку для кожного з його батьківських елементів, починаючи зверху з глобального об'єкта вікна.
+Існує два способи проходження події
+
+1. Зверху вниз (перехоплення події)
+2. Знизу догори (бульбашковий потік подій)
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 86. Що таке всплиття подій (event bubbling)
+
+Розповсюдження подій - це тип поширення подій, коли подія спочатку спрацьовує на внутрішньому цільовому елементі, а потім послідовно спрацьовує на предках (батьках) цільового елемента в тій самій ієрархії вкладеності, доки не досягне зовнішнього DOM-елемента.
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 87. Що таке захоплення подій (event capturing)
+
+Захоплення події - це тип поширення події, коли подія спочатку захоплюється зовнішнім елементом, а потім послідовно спрацьовує на нащадках (дочірніх елементах) цільового елемента в тій самій ієрархії вкладеності, доки не досягне найпотаємнішого елемента DOM.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 88. Як ви відправляєте форму за допомогою JavaScript
+
+Ви можете відправити форму за допомогою `document.forms[0].submit()`. Вся інформація з форми надсилається за допомогою обробника події onsubmit
+
+```javascript
+function submit() {
+  document.forms[0].submit();
+}
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 89. Як ви знаходите деталі операційної системи
+
+Об'єкт window.navigator містить інформацію про особливості операційної системи браузера відвідувача. Деякі з властивостей операційної системи доступні у розділі властивостей платформи,
+
+```javascript
+console.log(navigator.platform);
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 90. Яка різниця між подіями document load та DOMContentLoaded
+
+Подія `DOMContentLoaded` спрацьовує, коли початковий HTML-документ повністю завантажено і проаналізовано, не чекаючи на завершення завантаження ресурсів (таблиць стилів, зображень і підкадрів). Тоді як подія load спрацьовує, коли завантажується вся сторінка, включаючи всі залежні ресурси (таблиці стилів, зображення).
+
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 91. Яка різниця між вбудованими (native), господарськими (host) та користувацькими (user) об'єктами
+
+"Нативні об'єкти" - це об'єкти, які є частиною мови JavaScript, визначені специфікацією ECMAScript. Наприклад, String, Math, RegExp, Object, Function та інші основні об'єкти, визначені в специфікації ECMAScript.
+"Хост-об'єкти" - це об'єкти, що надаються браузером або середовищем виконання (Node). Наприклад, вікно, XmlHttpRequest, DOM-вузли тощо вважаються хост-об'єктами.
+Користувацькі об'єкти - це об'єкти, визначені в javascript-коді. Наприклад, об'єкти User, створені для інформації про профіль.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 92. Які інструменти або техніки використовуються для відлагодження коду JavaScript
+
+Для налагодження JavaScript можна використовувати наступні інструменти або методи
+
+1. Chrome Devtools
+2. оператор відладчика
+3. Старий добрий оператор console.log
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 93. Які переваги та недоліки обіцянок (promises) порівняно зі зворотніми викликами (callbacks)
+
+Нижче наведено перелік переваг та недоліків обіцянок над зворотними викликами,
+
+**Плюси:**
+
+1. Це дозволяє уникнути пекла зворотних дзвінків, які неможливо прочитати
+2. Легко писати послідовний асинхронний код з .then()
+3. Легко писати паралельний асинхронний код з Promise.all()
+4. Вирішує деякі з поширених проблем зворотного виклику (виклик занадто пізно, занадто рано, багато разів і ковтання помилок/винятків)
+
+**Можливі недоліки
+
+1. Мало складного коду
+2. Потрібно завантажувати поліфіл, якщо ES6 не підтримується
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 94. Яка різниця між атрибутом та властивістю (property)
+
+Атрибути визначаються в HTML-розмітці, тоді як властивості визначаються в DOM. Наприклад, наведений нижче HTML-елемент має 2 атрибути type і value,
+
+```javascript
+<input type="text" value="Name:">
+```
+
+Ви можете отримати значення атрибута, як показано нижче,
+
+```javascript
+const input = document.querySelector("input");
+console.log(input.getAttribute("value")); // Доброго ранку
+console.log(input.value); // Good morning
+```
+
+And after you change the value of the text field to "Good evening", it becomes like
+
+```javascript
+console.log(input.getAttribute("value")); // Good evening
+console.log(input.value); // Good evening
+```
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 95. Що таке політика однакового походження (same-origin policy)
+
+Політика однакового походження - це політика, яка не дозволяє JavaScript робити запити через межі домену. Походження визначається як комбінація схеми URI, імені хоста і номера порту. Якщо ви ввімкнете цю політику, вона не дозволить шкідливому скрипту на одній сторінці отримати доступ до конфіденційних даних на іншій веб-сторінці за допомогою моделі об'єктів документа (DOM).
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 96. Яка мета фрази void 0
+
+Void(0) is used to prevent the page from refreshing. This will be helpful to eliminate the unwanted side-effect, because it will return the undefined primitive value. It is commonly used for HTML documents that use href="JavaScript:Void(0);" within an `<a>` element. i.e, when you click a link, the browser loads a new page or refreshes the same page. But this behavior will be prevented using this expression.
+For example, the below link notify the message without reloading the page
+```javascript
+<a href="JavaScript:void(0);" onclick="alert('Well done!')">
+  Click Me!
+</a>
+```
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 97. Чи є JavaScript компільованою чи інтерпретованою мовою
+
+JavaScript - это интерпретируемый, а не компилируемый язык. Интерпретатор в браузере считывает код JavaScript, интерпретирует каждую строку и запускает его на выполнение. В настоящее время в современных браузерах используется технология Just-In-Time (JIT) компиляции, которая компилирует JavaScript в исполняемый байт-код непосредственно в момент его запуска.
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 98.	Чи є JavaScript чутливою до регістру мовою
+
+Так, JavaScript - це мова, чутлива до регістру. Ключові слова мови, змінні, назви функцій та об'єктів, а також будь-які інші ідентифікатори завжди повинні вводитися з великої літери.
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 99. Чи існує якась зв'язок між Java та JavaScript
+
+Ні, це абсолютно різні мови програмування і не мають нічого спільного між собою. Але обидві вони є об'єктно-орієнтованими мовами програмування і, як і багато інших мов, мають схожий синтаксис для основних функцій (if, else, for, switch, break, continue і т.д.).
+
+
+[до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
+### 100. Що таке події (events)
+
+ Події - це "речі", які відбуваються з елементами HTML. Коли JavaScript використовується на HTML-сторінках, він може "реагувати" на ці події. Ось деякі приклади подій HTML,
+
+ 1. Веб-сторінка завершила завантаження
+ 2. Змінено поле введення
+ 3. Кнопка була натиснута
+
+ Опишемо поведінку події кліку для елемента button,
+
+```javascript
+ <!doctype html>
+ <html>
+  <head>
+    <script>
+      function greeting() {
+        alert('Hello! Good morning');
+      }
+    </script>
+  </head>
+  <body>
+    <button type="button" onclick="greeting()">Click me</button>
+  </body>
+ </html>
+ ```
+
 
 ---
 
