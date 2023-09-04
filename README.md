@@ -436,14 +436,14 @@
 - [99. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#99-)
 - [100. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#100-)
 
-## Бази данних
+## 11. Бази данних
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
 
 - [1. Які бувають види БД](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-які-бувають-види-бд)
 - [2. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#2-)
 
 
-## Загальні питання
+## 12. Загальні питання
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#загальні-питання)
 
 - [1. Які знаєте Web elements](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#1-які-знаєте-web-elements)
@@ -465,10 +465,10 @@
 - [17. Формати передачі даних](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#17-формати-передачі-даних)
 - [18. Відмінності між XML та JSON](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#18-відмінності-між-xml-та-json)
 - [19. Клієнт-серверна архітектура](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#19-клієнт-серверна-архітектура)
-- [20. Для чого потрібні TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#20-для-чого-потрібні-testng-junit)
-- [21. Які інструкції використовуються в TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#21-які-інструкції-використовуються-в-testng-junit)
-- [22. Які assertions є в TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#22-які-assertions-є-в-testng-junit)
-- [23. Як виконувати тести паралельно TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#23-як-виконувати-тести-паралельно-testng-junit)
+- [20. Для чого потрібні TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#20-для-чого-потрібні-testng-/-junit)
+- [21. Які інструкції використовуються в TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#21-які-інструкції-використовуються-в-testng-/-junit)
+- [22. Які assertions є в TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#22-які-assertions-є-в-testng-/-junit)
+- [23. Як виконувати тести паралельно TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#23-як-виконувати-тести-паралельно-testng-/-junit)
 - [24. 2 способи, що дозволяють автоматизувати капчу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#24-2-способи-що-дозволяють-автоматизувати-капчу)
 - [25. Що таке Selenium Grid](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#25-що-таке-selenium-grid)
 - [26. Драйвер браузера](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#26-драйвер-браузера)
