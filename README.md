@@ -412,29 +412,31 @@
 - [75. Різниця між OLTP та OLAP](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#75-різниця-між-oltp-та-olap)
 - [76. Типи реплікації в SQL Server?](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#76-типи-реплікації-в-sql-server)
 - [77. Self Join](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#77-self-join)
-- [78. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#78-)
-- [79. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#79-)
-- [80. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#80-)
-- [81. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#81-)
-- [82. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#82-)
-- [83. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#83-)
-- [84. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#84-)
-- [85. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#85-)
-- [86. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#86-)
-- [87. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#87-)
-- [88. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#88-)
-- [89. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#89-)
-- [90. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#90-)
-- [91. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#91-)
-- [92. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#92-)
-- [93. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#93-)
-- [94. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#94-)
-- [95. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#95-)
-- [96. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#96-)
-- [97. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#97-)
-- [98. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#98-)
-- [99. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#99-)
-- [100. ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#100-)
+- [78. Що такое тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#78-що-такое-тестування)
+- [79. Піраміда тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#79-піраміда-тестування)
+- [80. Навіщо тестувати ПЗ](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#80-навіщо-тестувати-пз)
+- [81. Етапи тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#81-етапи-тестування)
+- [82. Типи тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#82-типи-тестування)
+- [83. Рівні тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#83-рівні-тестування)
+- [84. Техніки тест-дизайну](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#84-техніки-тест-дизайну)
+- [85. Що таке Regression та Confirmation тестування, яка між ними різниця](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#85-що-таке-regression-та-confirmation-тестування-яка-між-ними-різниця)
+- [86. Частота регресійного тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#86-частота-регресійного-тестування)
+- [87. Види інтеграційного тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#87-види-інтеграційного-тестування)
+- [88. Configuration Testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#88-configuration-testing)
+- [89. Exploratory Testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#89-exploratory-testing)
+- [90. Performance Testing](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#90-performance-testing)
+- [91. Traceability Matrix](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#91-traceability-matrix)
+- [92. End-to-End тест](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#92-end-to-end-тест)
+- [93. Тестування безпеки](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#93-nестування-безпеки)
+- [94. Випробування на основі ризиків](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#94-випробування-на-основі-ризиків)
+- [95. Динамічне тестування](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#95-динамічне-тестування)
+- [96. Основні фази STLC? Дайте визначення Entry та Exit Criteria](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#96-основні-фази-stlc-дайте-визначення-entry-та-exit-criteria)
+- [97. Атрибути баг-репорту? Які основні поля для заповнення](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#97-атрибути-баг-репорту-які-основні-поля-для-заповнення)
+- [98. Різниця між пріоритетом і серйозністю](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#98-різниця-між-пріоритетом-і-серйозністю)
+- [99. Наведіть приклади серйозного, але не пріоритетного бага](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#99-наведіть-приклади-серйозного-але-не-пріоритетного-бага)
+- [100. Навіщо потрібна тестова документація? Які її види](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#100-навіщо-потрібна-тестова-документація-які-її-види)
+- [101. Тест-план? Які елементи має](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#100-тест-план-які-елементи-має)
+
 
 ## 11. Бази данних
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
@@ -465,10 +467,10 @@
 - [17. Формати передачі даних](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#17-формати-передачі-даних)
 - [18. Відмінності між XML та JSON](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#18-відмінності-між-xml-та-json)
 - [19. Клієнт-серверна архітектура](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#19-клієнт-серверна-архітектура)
-- [20. Для чого потрібні TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#20-для-чого-потрібні-testng-/-junit)
-- [21. Які інструкції використовуються в TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#21-які-інструкції-використовуються-в-testng-/-junit)
-- [22. Які assertions є в TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#22-які-assertions-є-в-testng-/-junit)
-- [23. Як виконувати тести паралельно TestNG/JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#23-як-виконувати-тести-паралельно-testng-/-junit)
+- [20. Для чого потрібні TestNG, JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#20-для-чого-потрібні-testng-junit)
+- [21. Які інструкції використовуються в TestNG, JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#21-які-інструкції-використовуються-в-testng-junit)
+- [22. Які assertions є в TestNG, JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#22-які-assertions-є-в-testng-junit)
+- [23. Як виконувати тести паралельно TestNG, JUnit](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#23-як-виконувати-тести-паралельно-testng-junit)
 - [24. 2 способи, що дозволяють автоматизувати капчу](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#24-2-способи-що-дозволяють-автоматизувати-капчу)
 - [25. Що таке Selenium Grid](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#25-що-таке-selenium-grid)
 - [26. Драйвер браузера](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#26-драйвер-браузера)
@@ -4289,7 +4291,7 @@ End-to-End тести - такі інтеграційні тести, які в�
 
 
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-### 97. Основні фази STLC? Дайте визначення Entry та Exit Criteria.
+### 96. Основні фази STLC? Дайте визначення Entry та Exit Criteria.
 Життєвий цикл тестування (STLC) визначає, які дії виконувати при тестуванні і коли їх виконувати.
 
 **Фази**:
@@ -4306,7 +4308,7 @@ End-to-End тести - такі інтеграційні тести, які в�
 
 
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-### 98. Атрибути баг-репорту? Які основні поля для заповнення
+### 97. Атрибути баг-репорту? Які основні поля для заповнення
 *Баг Репорт (Bug Report)* — документ, що описує ситуацію або послідовність дій, що призвела до некоректної роботи об'єкта тестування, із зазначенням причин та очікуваного результату.
 
 **Атрибути**:
@@ -4330,7 +4332,7 @@ End-to-End тести - такі інтеграційні тести, які в�
 
 
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-### 99. Різниця між пріоритетом і серйозністю
+### 98. Різниця між пріоритетом і серйозністю
 *Серйозність (Severity)* - атрибут, що характеризує вплив дефекту на працездатність програми.
 
 *Пріоритет (Priority)* - атрибут, що вказує на черговість виконання завдання або усунення дефекту. Більше інструмент менеджера з планування робіт. Чим вищий пріоритет, тим швидше потрібно виправити дефект
@@ -4339,12 +4341,12 @@ End-to-End тести - такі інтеграційні тести, які в�
 
 
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-### 100. Наведіть приклади серйозного, але не пріоритетного бага.
+### 99. Наведіть приклади серйозного, але не пріоритетного бага.
 На Андроїді 4.4 програма при першому запуску падає. У наступні запуски працює нормально. Т.к. користувачів з цією версією ОС у нас близько 0,5%, то пріоретет можна поставити низький або взагалі проігнорувати.
 
 
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-### 101. Навіщо потрібна тестова документація? Які її види
+### 100. Навіщо потрібна тестова документація? Які її види
 https://habr.com/ua/company/otus/blog/588923/
 
 *Тестова документація* — набір документів, що створюються перед початком процесу тестування та безпосередньо у процесі. Ці документи описують покриття тестами та процес виконання тестів, у них вказуються необхідні для тестування речі, наводиться основна термінологія тощо. буд. У тестовій документації будь-який член команди може знайти повну інформацію про всі дії, пов'язані з тестуванням (і про вже виконані, та про заплановані). Тестова документація визначає, що для нас важливо і чому, які дії ми маємо виконати і скільки часу ми маємо. Зрештою, у документації зазначено, чого має досягти команда та що сигналізує про закінчення процесу.
@@ -4359,7 +4361,7 @@ https://habr.com/ua/company/otus/blog/588923/
 
 
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-### 102. Тест-план? Які елементи має
+### 101. Тест-план? Які елементи має
 *План тестування (Test Plan)* — документ, що описує весь обсяг робіт із тестування, починаючи з опису об'єкта, стратегії, розкладу, критеріїв початку та закінчення тестування, до необхідного в процесі роботи обладнання, спеціальних знань, а також оцінки ризиків з варіантами їх дозволу.
 
 У стандарті IEEE 829 перераховані пункти, з яких може/має складатися тест-план:
@@ -4606,12 +4608,12 @@ JavaScript відповідає за створення та налаштува�
 
 
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-### 20. Для чого потрібні TestNG/JUnit
+### 20. Для чого потрібні TestNG, JUnit
 Це фреймворки автоматичного тестування. Потрібні щоб не писати свій велосипед для тих самих завдань конфігурування тестів, анотацій для них, дата-провайдерів і т.д.
 
 
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-### 21. Які інструкції використовуються в TestNG/JUnit
+### 21. Які інструкції використовуються в TestNG, JUnit
 *TestNG*:
 * @BeforeSuite / @AfterSuite
 * @BeforeTest / @AfterTest
@@ -4636,7 +4638,7 @@ JavaScript відповідає за створення та налаштува�
 * @IncludeClassNamePatterns / @ExcludeClassNamePatterns / @IncludeTags / @ExcludeTags
 
 
-### 22. Які assertions є в TestNG/JUnit
+### 22. Які assertions є в TestNG, JUnit
 *TestNG*:
 * assertEquals() / assertNotEquals()
 * assertTrue() / assertFalse()
@@ -4660,7 +4662,7 @@ JavaScript відповідає за створення та налаштува�
 
 
 [до змісту ⬆️](https://github.com/tendil/interview_questions_qa_python_js_java/blob/main/README.md#запитання-для-співбесіди-на-теми)
-### 23. Як виконувати тести паралельно TestNG/JUnit
+### 23. Як виконувати тести паралельно TestNG, JUnit
 ***Перекласти драйвер браузера на ThreadLocal!***
 
 *TestNG*
